@@ -1,9 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 *{
     margin: 0%;
     padding :0%;
 
 }
-
 html {
     box-sizing: border-box;
   }
@@ -31,7 +34,9 @@ html {
         transform: scale(1.1);
         background-color: rgb(228, 228, 228);
   }
-  
+  .tech-stack{
+    margin-top: 2%;
+  }
   .about{
     min-height: 100vh;
   }
@@ -54,7 +59,8 @@ html {
   }
   
   .title {
-    color: grey;
+    color: #7457c4;
+    font-size: medium;
   }
   
   .button {
