@@ -55,7 +55,8 @@ We are proud to announce that we won the Hackathon! We would like to express our
 For more details about our project, you can visit:
 
 - [Devpost](https://devpost.com/software/airiq) - Detailed information about our project on Devpost.
-- [Linkedin](https://devpost.com/software/airiq) - Linkedin Post.
+- [AirIQ.us](https:airiq.us) - Hosted Webpage.
+- [Linkedin](https://www.linkedin.com/posts/ashutosh7i_team-wittyhacks-hackathonwinners-activity-7054429430504390656-Aqk_?utm_source=share&utm_medium=member_desktop) - Linkedin Post.
 - [Twitter](https://twitter.com/ashutosh7i/status/1646233686696919041) - Twitter Post.
 
 Thank you once again to everyone who contributed and supported us. We are excited about the future possibilities of AirIQ!
